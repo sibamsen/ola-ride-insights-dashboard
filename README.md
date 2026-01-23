@@ -28,33 +28,33 @@ This project fulfills both **mentor guidance** and **PDF requirements** by combi
 
 ## 📂 Project Structure
 
-OLA-Ride-Insights/
-│
-data/
- ├── raw/
- │    └── OLA_DataSet.xlsx
- └── processed/
-      └── ola_cleaned.csv
-
-docs/
- └── insights.md
-
-notebooks/
- ├── 01_data_understanding.ipynb
- ├── 02_data_cleaning.ipynb
- └── 03_eda.ipynb
-
-powerbi/
- └── OLA Ride Insights Dashboard.pbix
-
-sql/
- └── ola_queries.sql
-
-streamlit_app/
- ├── app.py
- └── requirements.txt
-
-README.md
+  OLA-Ride-Insights/
+  │
+  data/
+   ├── raw/
+   │    └── OLA_DataSet.xlsx
+   └── processed/
+        └── ola_cleaned.csv
+  
+  docs/
+   └── insights.md
+  
+  notebooks/
+   ├── 01_data_understanding.ipynb
+   ├── 02_data_cleaning.ipynb
+   └── 03_eda.ipynb
+  
+  powerbi/
+   └── OLA Ride Insights Dashboard.pbix
+  
+  sql/
+   └── ola_queries.sql
+  
+  streamlit_app/
+   ├── app.py
+   └── requirements.txt
+  
+  README.md
 
 
 
